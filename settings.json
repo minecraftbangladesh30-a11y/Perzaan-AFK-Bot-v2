@@ -1,14 +1,14 @@
+
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Afk Bot",
+    "username": "Afk_Bot",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "mcfleetbd.aternos.me",
-    "port": 14260
-,
+    "port": 14260,
     "version": "1.21.1"
   },
   "position": {
