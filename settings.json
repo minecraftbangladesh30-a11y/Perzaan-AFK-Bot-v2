@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "deathrosesmp.play.hosting",
-    "port": 43786
+    "ip": "mcfleetbd.aternos.me",
+    "port": 14260
 ,
     "version": "1.21.1"
   },
